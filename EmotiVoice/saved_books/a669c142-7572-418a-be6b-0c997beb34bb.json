@@ -1,0 +1,22 @@
+{
+    "projectId": "a669c142-7572-418a-be6b-0c997beb34bb",
+    "bookDetails": {
+        "title": "sample 1",
+        "author": "sda"
+    },
+    "lines": [
+        {
+            "id": "0fdd7fd6-678c-45cc-bb41-344e67dc4c9d",
+            "text": "I am doing well.",
+            "emotion": "joy",
+            "speaker": "102"
+        },
+        {
+            "id": "89b71ac4-5e8a-4bbd-8356-1915107551a5",
+            "text": "Today was a bad day.",
+            "emotion": "sadness",
+            "speaker": "8051"
+        }
+    ],
+    "lastSaved": "2025-04-07T05:45:10.111779Z"
+}

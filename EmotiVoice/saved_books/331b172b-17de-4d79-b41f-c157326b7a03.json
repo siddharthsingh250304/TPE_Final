@@ -1,0 +1,22 @@
+{
+    "projectId": "331b172b-17de-4d79-b41f-c157326b7a03",
+    "bookDetails": {
+        "title": "a",
+        "author": "as"
+    },
+    "lines": [
+        {
+            "id": "6ba2ab37-24e3-41cb-b600-9983d64f3591",
+            "text": "I am doing well.",
+            "emotion": "joy",
+            "speaker": "11614"
+        },
+        {
+            "id": "cf241c4e-9fee-44f5-987d-04b9e8566991",
+            "text": "Today was a bad day.",
+            "emotion": "sadness",
+            "speaker": "8051"
+        }
+    ],
+    "lastSaved": "2025-04-07T05:36:36.915529Z"
+}
